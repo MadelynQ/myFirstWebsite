@@ -1,0 +1,15 @@
+.me{
+    background-image: url(IMG_4567.jpg);
+    height: 250px;
+   width: 250px;
+   background-size: cover;
+   background-position: center;
+   display: block;
+   border-radius: 125px;
+   -webkit-border-radius: 125px;
+   -moz-border-radius:125px; 
+}
+.navigation{
+    background-color: pink;
+    
+}
